@@ -1,0 +1,26 @@
+ol,ul{
+    list-style: none
+}
+
+
+header{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a i{
+    color: red;
+    font-size: 3em;
+    padding: 0,9em;
+}
+header nav ul{
+    display: flex;
+    gap: 1.1em;
+}
+
+header nav ul li{
+color: white;
+}
+
